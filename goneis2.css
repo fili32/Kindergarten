@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+#clouds {
+	background-attachment: scroll;
+	background-color: transparent;
+	background-image: url(images/cloud2.png);
+	background-repeat: repeat-x;
+	background-position: 0 85px;
+}
+.stage {
+	height: 250px;
+	left: 0;
+	min-width: 900px;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	background-image: url(images/Background8.jpg);
+}
+html body div#stage.stage div#clouds.stage
