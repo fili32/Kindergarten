@@ -1,2 +1,2 @@
-# theonig
+# kindergarden
 sample-site
