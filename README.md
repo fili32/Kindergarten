@@ -1,2 +1,2 @@
-# kindergarden
+# kindergarten
 sample-site
